@@ -1,6 +1,6 @@
 # Predicting Residential Building Energy Consumption in NYC
 
-## Exectuive Summary
+## Executive Summary
 
 Buildings worldwide consume about 40% of energy, highlighting the need for accurate energy
 forecasting to support sustainability. In New York City, Local Laws 84 and 97 mandate detailed
@@ -17,6 +17,11 @@ Extension, and Number of Bedrooms Density per 1000 square feet as the three most
 factors for modeling. We propose that New York City introduce a Large Language Model that
 provides instant access to legislation and compliance guidance, ultimately helping to simplify the
 process of achieving Local Law 97 compliance.
+
+Important links
+- ![Final demo](https://bit.ly/mlc_project_demo_group3)
+- ![Comprehensive report](https://drive.google.com/file/d/1HyeoOwNvF4iSCyrhe0H8KOuWp0wfFnli/view?usp=sharing)
+- ![Poster](https://docs.google.com/presentation/d/1D2A9eFOuF21zzz1N20TMbS4ga-1CwhUN/pub?start=true&loop=false&delayms=3000)
 
 ## Problem Statement
 
