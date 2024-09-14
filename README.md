@@ -19,9 +19,9 @@ provides instant access to legislation and compliance guidance, ultimately helpi
 process of achieving Local Law 97 compliance.
 
 Important links
-- ![Final demo](https://bit.ly/mlc_project_demo_group3)
-- ![Comprehensive report](https://drive.google.com/file/d/1HyeoOwNvF4iSCyrhe0H8KOuWp0wfFnli/view?usp=sharing)
-- ![Poster](https://docs.google.com/presentation/d/1D2A9eFOuF21zzz1N20TMbS4ga-1CwhUN/pub?start=true&loop=false&delayms=3000)
+- [Final demo](https://bit.ly/mlc_project_demo_group3)
+- [Comprehensive report](https://drive.google.com/file/d/1HyeoOwNvF4iSCyrhe0H8KOuWp0wfFnli/view?usp=sharing)
+- [Poster](https://docs.google.com/presentation/d/1D2A9eFOuF21zzz1N20TMbS4ga-1CwhUN/pub?start=true&loop=false&delayms=3000)
 
 ## Problem Statement
 
